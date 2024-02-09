@@ -2,14 +2,14 @@
 
 Sitios estáticos construidos con el framework Hugo.
 
-Hugo es un generador de sitios estáticos escrito en [Go](https://go.dev/), creado por Steve Francia. Desde el 2015 ha visto un gran incremento en funciones y rendimiento, gracias al desarrollador Bjørn Erik Pedersen (desde v0.14), y otros colaboradores. [Wikipedia](https://es.m.wikipedia.org/wiki/Hugo_(software)).
-
-## Contenido
-
 - `pcb_libs` Sitio del proyecto "PCB Libs". Utiliza el tema *PaperMod*.
 - `about_me` Sitio personal en github. Utiliza el tema *-*.
 
-[Hugo](https://gohugo.io/) es
+## Sobre Hugo
+
+Hugo es un generador de sitios estáticos escrito en [Go](https://go.dev/), creado por Steve Francia. Desde el 2015 ha visto un gran incremento en funciones y rendimiento, gracias al desarrollador Bjørn Erik Pedersen (desde v0.14), y otros colaboradores. [Wikipedia](https://es.m.wikipedia.org/wiki/Hugo_(software)).
+
+## Uso
 
 Para instalar Hugo en Ubuntu, otros sistemas operativos consultar [Installation](https://gohugo.io/installation/):
 
@@ -22,6 +22,9 @@ Para crear un nuevo sitio:
 hugo new site nombre_del_sitio
 ```
 
+## Recursos
+
+- [Hugo](https://gohugo.io/)
 https://gohugo.io/getting-started/quick-start/
 https://gohugo.io/content-management/organization/
 https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/
