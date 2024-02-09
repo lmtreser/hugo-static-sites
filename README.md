@@ -8,11 +8,14 @@ Sitios estáticos construidos con el framework Hugo
 
 Para instalar Hugo en Ubuntu, otros sistemas operativos consultar [Installation](https://gohugo.io/installation/):
 
-`sudo apt install hugo`
-
+```bash
+sudo apt install hugo
+```
 Para crear un nuevo sitio:
 
-`hugo new site nombre_del_sitio`
+```bash
+hugo new site nombre_del_sitio
+```
 
 https://gohugo.io/getting-started/quick-start/
 https://gohugo.io/content-management/organization/
