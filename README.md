@@ -1,6 +1,10 @@
 # Hugo Static Sites
 
-Sitios estáticos construidos con el framework Hugo
+Sitios estáticos construidos con el framework Hugo.
+
+Hugo es un generador de sitios estáticos escrito en [Go](https://go.dev/), creado por Steve Francia. Desde el 2015 ha visto un gran incremento en funciones y rendimiento, gracias al desarrollador Bjørn Erik Pedersen (desde v0.14), y otros colaboradores. [Wikipedia](https://es.m.wikipedia.org/wiki/Hugo_(software)).
+
+## Contenido
 
 - `pcb_libs` Sitio del proyecto "PCB Libs". Utiliza el tema *PaperMod*.
 - `about_me` Sitio personal en github. Utiliza el tema *-*.
