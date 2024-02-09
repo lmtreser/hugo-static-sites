@@ -1,0 +1,29 @@
+baseURL = 'https://lmtreser.github.io/pcb_libs/'
+languageCode = 'es'
+title = 'Apuntes sobre Diseño Electrónico'
+theme = 'PaperMod'
+description = 'Compendio de información técnica sobre diseño electrónico'
+keywords = [ 'PCB', 'KiCad', 'DASE', 'Electrónica' ]
+author = 'Lucas Martin Treser'
+DateFormat = 'January 2, 2006'
+
+[params]
+defaultTheme = 'light'
+disableThemeToggle = false
+ShowReadingTime = true
+ShowToc = true
+TocOpen = true
+ShowBreadCrumbs = false
+ShowPostNavLinks = true
+
+[[menu.main]]
+identifier = 'pcb_libs_url'
+name = 'Biblioteca PCB Libs'
+url = 'https://github.com/lmtreser/pcb_libs'
+weight = 30
+
+[[menu.main]]
+identifier = 'repositorio'
+name = 'Código fuente'
+url = 'https://github.com/lmtreser/hugo-static-sites'
+weight = 30
