@@ -1,8 +1,9 @@
-# hugo-static-sites
+# Hugo Static Sites
 
 Sitios estáticos construidos con el framework Hugo
-- pcb_libs
-- about_me
+
+- `pcb_libs` Sitio del proyecto "PCB Libs".
+- `about_me` Sitio personal en github.
 
 [Hugo](https://gohugo.io/) es
 
