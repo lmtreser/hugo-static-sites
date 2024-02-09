@@ -2,8 +2,8 @@
 
 Sitios estáticos construidos con el framework Hugo.
 
-- `pcb_libs` Sitio del proyecto "PCB Libs". Utiliza el tema *PaperMod*.
 - `about_me` Sitio personal en github. Utiliza el tema *-*.
+- `pcb_libs` Sitio del proyecto "PCB Libs". Utiliza el tema *PaperMod*.
 
 ## Sobre Hugo
 
@@ -25,9 +25,8 @@ hugo new site nombre_del_sitio
 ## Recursos
 
 - [Hugo](https://gohugo.io/)
-https://gohugo.io/getting-started/quick-start/
-https://gohugo.io/content-management/organization/
-https://adityatelange.github.io/hugo-PaperMod/posts/papermod/papermod-features/
+- [Hugo Getting Started](https://gohugo.io/getting-started/quick-start/)
+- [PaperMod Theme](https://adityatelange.github.io/hugo-PaperMod)
 
 ## Licencia
 
