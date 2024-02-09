@@ -25,5 +25,5 @@ weight = 30
 [[menu.main]]
 identifier = 'repositorio'
 name = 'Código fuente'
-url = 'https://github.com/lmtreser/hugo-static-sites'
+url = 'https://github.com/lmtreser/hugo-static-sites/tree/main/pcb_libs'
 weight = 30
