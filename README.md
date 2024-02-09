@@ -2,7 +2,7 @@
 
 Sitios estáticos construidos con el framework Hugo.
 
-- `about_me` Sitio personal en github. Utiliza el tema *-*.
+- `about_me` Sitio personal en GitHub. Utiliza el tema *-*.
 - `pcb_libs` Sitio del proyecto "PCB Libs". Utiliza el tema *PaperMod*.
 
 ## Sobre Hugo
@@ -11,16 +11,18 @@ Hugo es un generador de sitios estáticos escrito en [Go](https://go.dev/), crea
 
 ## Uso
 
-Para instalar Hugo en Ubuntu, otros sistemas operativos consultar [Installation](https://gohugo.io/installation/):
+Instalar Hugo en Ubuntu (otros sistemas operativos consultar [Installation](https://gohugo.io/installation/)):
 
 ```bash
 sudo apt install hugo
 ```
-Para crear un nuevo sitio:
+Crear un nuevo sitio:
 
 ```bash
 hugo new site nombre_del_sitio
 ```
+
+
 
 ## Recursos
 
