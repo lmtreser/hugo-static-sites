@@ -29,6 +29,17 @@ Agregar contenido:
 hugo new content posts/my-first-post.md
 ```
 
+Desplegar el servidor de desarrollo:
+
+```bash
+hugo server -D
+```
+
+Publicar el sitio:
+
+```bash
+hugo
+```
 
 
 ## Recursos
