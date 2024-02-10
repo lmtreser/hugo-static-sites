@@ -49,6 +49,7 @@ hugo
 - [PaperMod Theme](https://adityatelange.github.io/hugo-PaperMod)
 - [Even Theme](https://hugo-theme-even.netlify.app/)
 - [LoveIt Theme](https://hugoloveit.com/)
+- [Mini Theme](https://nodejh.com/hugo-theme-mini/)
 
 ## Licencia
 
