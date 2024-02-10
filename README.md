@@ -30,7 +30,7 @@ hugo new site nombre_del_sitio
 - [Hugo Getting Started](https://gohugo.io/getting-started/quick-start/)
 - [PaperMod Theme](https://adityatelange.github.io/hugo-PaperMod)
 - [Even Theme](https://hugo-theme-even.netlify.app/)
-- []()
+- [LoveIt Theme](https://hugoloveit.com/)
 
 ## Licencia
 
