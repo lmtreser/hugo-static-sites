@@ -16,10 +16,17 @@ Instalar Hugo en Ubuntu (otros sistemas operativos consultar [Installation](http
 ```bash
 sudo apt install hugo
 ```
+
 Crear un nuevo sitio:
 
 ```bash
 hugo new site nombre_del_sitio
+```
+
+Agregar contenido:
+
+```bash
+hugo new content posts/my-first-post.md
 ```
 
 
