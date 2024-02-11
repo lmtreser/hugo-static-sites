@@ -1,0 +1,8 @@
+baseURL = 'https://lmtreser.github.io/'
+languageCode = 'es'
+title = 'About Me'
+theme = 'hugo-theme-mini'
+description = 'Compendio de información técnica sobre diseño electrónico'
+keywords = [ 'PCB', 'KiCad', 'DASE', 'Electrónica' ]
+author = 'Lucas Martin Treser'
+DateFormat = 'January 2, 2006'
