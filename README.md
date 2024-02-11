@@ -46,6 +46,7 @@ hugo
 
 - [Hugo](https://gohugo.io/)
 - [Hugo Getting Started](https://gohugo.io/getting-started/quick-start/)
+- [How to choose the right static site generator](https://about.gitlab.com/blog/2022/04/18/comparing-static-site-generators/)
 - [PaperMod Theme](https://adityatelange.github.io/hugo-PaperMod)
 - [Even Theme](https://hugo-theme-even.netlify.app/)
 - [LoveIt Theme](https://hugoloveit.com/)
