@@ -1,10 +1,9 @@
-baseURL = "https://example.com"
+baseURL = "https://lmtreser.github.io/"
 languageCode = "es"
 title = "Lucas Martín Treser"
 theme = "hugo-theme-mini"
 defaultContentLanguage = "es"
 hasCJKLanguage = true
-paginate = 3
 
 [permalinks]
 posts = "/posts/:title/"
@@ -26,9 +25,9 @@ author = "Lucas Martin Treser"
 bio = "Técnico Electrónico"
 description = "My Blog"
 enableRSS = false
-enableComments = true
-enableGoogleAnalytics = true
-showToc = true
+enableComments = false
+enableGoogleAnalytics = false
+showToc = false
 showPowerBy = true
 math = false
 hiddenPostSummaryInHomePage = false
