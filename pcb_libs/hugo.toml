@@ -1,6 +1,6 @@
 baseURL = 'https://lmtreser.github.io/pcb_libs/'
 languageCode = 'es'
-title = 'Apuntes sobre Diseño Electrónico'
+title = '💻 DASE'
 theme = 'PaperMod'
 description = 'Compendio de información técnica sobre diseño electrónico'
 keywords = [ 'PCB', 'KiCad', 'DASE', 'Electrónica' ]
@@ -18,12 +18,18 @@ ShowPostNavLinks = true
 
 [[menu.main]]
 identifier = 'pcb_libs_url'
-name = 'Biblioteca PCB Libs'
+name = 'PCB Libs'
 url = 'https://github.com/lmtreser/pcb_libs'
-weight = 30
+weight = 10
 
 [[menu.main]]
 identifier = 'repositorio'
 name = 'Código fuente'
 url = 'https://github.com/lmtreser/hugo-static-sites/tree/main/pcb_libs'
-weight = 30
+weight = 20
+
+[params.homeInfoParams]
+Title = "Diseño Asistido y Simulación Electrónica"
+Content = """
+En este mini sitio encontrarás un compendio de información técnica sobre operación y programación de software orientado al diseño PCB.
+"""
