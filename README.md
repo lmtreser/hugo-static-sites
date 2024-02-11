@@ -2,7 +2,7 @@
 
 Sitios estáticos construidos con el framework Hugo.
 
-- `about_me` Sitio personal en GitHub. Utiliza el tema *-*.
+- `about_me` Sitio personal en GitHub. Utiliza el tema *Mini*.
 - `pcb_libs` Sitio del proyecto "PCB Libs". Utiliza el tema *PaperMod*.
 
 ## Sobre Hugo
@@ -53,7 +53,9 @@ hugo
 
 ## Licencia
 
-Hugo y los temas utilizados están protegidos por sus respectivas licencias. Este trabajo está protegido por la **Licencia MIT**. Puedes acceder a la versión original de la licencia (en inglés) a través del archivo [LICENSE](./LICENSE) o en línea en [The MIT License (MIT)](https://mit-license.org/). También proporcionamos una traducción no oficial desde [Wikipedia](https://es.m.wikipedia.org/wiki/Licencia_MIT#La_licencia):
+Hugo y los temas utilizados están protegidos por sus respectivas licencias. 
+
+Este trabajo está protegido por la **Licencia MIT**. Puedes acceder a la versión original de la licencia (en inglés) a través del archivo [LICENSE](./LICENSE) o en línea en [The MIT License (MIT)](https://mit-license.org/). También proporcionamos una traducción no oficial desde [Wikipedia](https://es.m.wikipedia.org/wiki/Licencia_MIT#La_licencia):
 
 Copyright (c) 2024 Lucas Martín Treser
 
