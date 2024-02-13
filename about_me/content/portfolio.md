@@ -6,7 +6,7 @@ tags: ["portfolio", "publicaciones", "trabajos", "educación", "proyectos"]
 draft: false
 weight: 2
 ---
-Mi *portfolio* trata de recopilar mis trabajos, publicaciones, proyectos educativos y eventos donde he compartido mi conocimiento en electrónica y tecnología, a lo largo de los años.
+Mi portfolio trata de recopilar mis trabajos a lo largo de los años: publicaciones, proyectos educativos y eventos donde he compartido mi conocimiento en electrónica y tecnología.
 <!--more-->
 ---
 ### Proyectos y experimentos
