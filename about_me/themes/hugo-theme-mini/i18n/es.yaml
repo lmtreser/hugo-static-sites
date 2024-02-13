@@ -1,11 +1,11 @@
 home:
-  other: Inicio
+  other: inicio
 
 archive:
   other: Archivo
 
 tags:
-  other: Etiquetas
+  other: tags
 
 about:
   other: Acerca
@@ -27,10 +27,10 @@ minuteRead:
   other: "Lectura de {{ .ReadingTime }} minutos"
 
 publishDate:
-  other: '{{ .PublishDate.Format "01/01/2006" }}'
+  other: '{{ .PublishDate.Format "Jan, 2006" }}'
 
 publishDateFull:
-  other: '{{ .PublishDate.Format "01/01/2006" }}'
+  other: '{{ .PublishDate.Format "January 2, 2006" }}'
 
 wordCount:
   one: "{{ .WordCount }} palabra"

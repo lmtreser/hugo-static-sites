@@ -4,7 +4,7 @@ title = "Lucas Martín Treser"
 theme = "hugo-theme-mini"
 defaultContentLanguage = "es"
 hasCJKLanguage = true
-# paginate = 3
+#paginate = 3
 
 [permalinks]
 posts = "/posts/:title/"
@@ -15,16 +15,17 @@ style = "emacs"
 
 [markup.tableOfContents]
 endLevel = 3
-ordered = false
 startLevel = 2
+ordered = false
 
 [markup.goldmark.renderer]
 unsafe = true
 
 [params]
 author = "Lucas Martin Treser"
-bio = "EN CONSTRUCCIÓN"
+bio = "T.S. en Tecnología"
 description = "Acerca de..."
+copyright = "[Blog](https://www.automatismos-mdq.com.ar) · [GitHub](https://github.com/lmtreser) · [GitLab](https://gitlab.com/lmtreser) · [Mastodon](https://mastodon.online/@lmtreser)"
 enableRSS = false
 enableComments = false
 enableGoogleAnalytics = false
@@ -32,8 +33,7 @@ showToc = false
 showPowerBy = false
 math = false
 hiddenPostSummaryInHomePage = false
-copyright = "[Blog](https://www.automatismos-mdq.com.ar) · [GitHub](https://github.com/lmtreser) · [GitLab](https://gitlab.com/lmtreser) · [Mastodon](https://mastodon.online/@lmtreser)"
 
 [[params.links]]
-name = "Código fuente"
+name = "código fuente"
 path = "https://github.com/lmtreser/hugo-static-sites/tree/main/about_me"
