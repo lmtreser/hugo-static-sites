@@ -9,6 +9,8 @@ weight: 3
 Automatismos Mar del Plata es mi blog personal donde encontrarás notas y artículos útiles sobre electrónica, microcontroladores, tecnología, robótica y mucho más.
 <!--more-->
 
-El sitio nació como un blog en la plataforma Blogger en enero de 2008 con la intención de acercar información a estudiantes, educadores, técnicos, aficionados, profesionales y amantes de la electrónica en general.
+El sitio nació como un blog en la plataforma [Blogger](https://es.m.wikipedia.org/wiki/Blogger) en enero de 2008 con la intención de acercar información a estudiantes, educadores, técnicos, aficionados, profesionales y amantes de la electrónica en general.
 
-**Próximamente...**
+![](../images/banner.png#center)
+
+> Logo creado por [DaFeBa](http://vamox.blogspot.com/).
