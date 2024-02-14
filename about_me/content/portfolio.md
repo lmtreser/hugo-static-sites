@@ -42,6 +42,7 @@ Mi portfolio trata de recopilar mis trabajos a lo largo de los años: publicacio
 - Pulsador Electrónico, proyecto de integración interescolar (2023) [🔗](https://github.com/lmtreser/Proyectos-Educativos/tree/main/Pulsador%20de%20Potencia)
 - Repositorio de proyectos educativos de escuelas técnicas (2023) [🔗](https://github.com/lmtreser/Proyectos-Educativos) 
 - Experiencias de trabajo con robótica educativa (2019) [🔗](https://www.automatismos-mdq.com.ar/blog/2019/12/robotica-educativa-4.html)
+- Taller Tecnología Aplicada (2018) [🔗](https://www.automatismos-mdq.com.ar/blog/2018/02/taller-tecnologia-aplicada.html)
 - Taller gratuito de Arduino (2017) [🔗](https://www.automatismos-mdq.com.ar/blog/2017/09/curso-gratuito-de-arduino.html)
 - Entrevista radial sobre el taller gratuito de Arduino (2017) [🔗](https://www.automatismos-mdq.com.ar/blog/2017/09/entrevista-radial-sobre-el-taller-gratuito-de-programacion-con-arduino.html)
 - Seminario Intensivo de Electricidad y Electrónica para Músicos (2016) [🔗](https://www.automatismos-mdq.com.ar/blog/2016/11/seminario-intensivo-de-electricidad-y-electronica-para-musicos.html)
