@@ -48,7 +48,7 @@ Mi portfolio trata de recopilar mis trabajos a lo largo de los años: publicacio
 - Seminario Intensivo de Electricidad y Electrónica para Músicos (2016) [🔗](https://www.automatismos-mdq.com.ar/blog/2016/11/seminario-intensivo-de-electricidad-y-electronica-para-musicos.html)
 - Mini Curso Electrónica para Músicos (2016) [🔗](https://www.automatismos-mdq.com.ar/blog/2016/08/electronica-para-musicos.html)
 - Docencia en Interactive Media Labs (2015) [🔗](https://www.automatismos-mdq.com.ar/blog/2015/08/interactive-media-labs.html)
-- Docencia en la Capacitación Profesional en Producción Musical (2015) [🔗](https://www.automatismos-mdq.com.ar/blog/2015/03/produccion-musical.html)
+- Docencia bajo el programa "Capacitación Profesional en Producción Musical" (2015) [🔗](https://www.automatismos-mdq.com.ar/blog/2015/03/produccion-musical.html)
 
 ### Eventos
 
@@ -60,10 +60,12 @@ Mi portfolio trata de recopilar mis trabajos a lo largo de los años: publicacio
 ### Trabajos Freelance
 
 - Construcción de una máquina recreativa con Arduino (2018) [🔗](https://www.automatismos-mdq.com.ar/blog/2018/01/maquina-recreativa-con-arduino.html)
+- Desarrollo de hardware, montaje y PoCs en PONCE AgTech (2018) [🔗](http://ponceautomations.com/)
 - Asesoramiento técnico: Rytmia Visual Music (2017) [🔗](https://www.automatismos-mdq.com.ar/blog/2017/12/asesoramiento-tecnico.html)
 - Investigación y desarrollo de un procesador automático de muestras ELISA (2013) [🔗](https://www.automatismos-mdq.com.ar/blog/2013/06/investigacion-y-desarrollo-de-un-procesador-automatico-de-muestras-elisa.html)
-- Trabajos para Niple Software (2013) [🔗](https://www.automatismos-mdq.com.ar/blog/2013/06/niple-software.html)
-- Trabajos para el Colegio de Técnicos de la Provincia de Buenos Aires, Distrito V (2009) · [🔗](https://www.automatismos-mdq.com.ar/blog/2009/01/colegio-de-tecnicos-de-la-provincia-de-buenos-aires-distrito-5.html)
+- Soporte técnico, redactor técnico y PoCs en Niple Software (2013) [🔗](https://www.automatismos-mdq.com.ar/blog/2013/06/niple-software.html)
+- Community Manager y administrador del sitio institucional del Colegio de Técnicos de la Provincia de Buenos Aires, Distrito V (2011) [🔗](https://www.automatismos-mdq.com.ar/blog/2009/01/colegio-de-tecnicos-de-la-provincia-de-buenos-aires-distrito-5.html)
+- Desarrollo de sistemas de control de acceso vehicular para estacionamientos (2009)
 
 ### Publicaciones
 

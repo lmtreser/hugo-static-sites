@@ -13,9 +13,19 @@ Desde enero de 2008, administro mi blog ["Automatismos Mar del Plata"](https://w
 ![Mar del Plata desde el aire, verano de 2019. Foto infobae.com.](../images/Verano-2019-Mar-del-Plata.jpg#center) 
 > Mar del Plata desde el aire, verano de 2019. Foto *infobae.com*.
 
-Me apasiona el desarrollo de software, especialmente en el ámbito de los microcontroladores, y tengo experiencia en la construcción y reparación de dispositivos electrónicos. Además estoy interesado en colaborar en proyectos de código abierto, ya sea en la creación de prototipos físicos o en el desarrollo de software.
+Soy un entusiasta de la electrónica y de la filosofía del “hazlo tu mismo” (*DIY, Do it yourself*), me apasiona el desarrollo de software, especialmente en el ámbito de los microcontroladores, y tengo experiencia en la construcción y reparación de dispositivos electrónicos. Además estoy interesado en colaborar en proyectos de código abierto, ya sea en la creación de prototipos físicos o en el desarrollo de software.
 
-Mis intereses son diversos, abarcando desde la educación hasta la retrocomputación, pasando por la ciencia de datos, Arduino, IoT, impresión 3D, GNU/Linux, hardware y software libre, entre otros.
+Mis intereses son diversos, abarcando desde la educación hasta la retrocomputación, pasando por la ciencia de datos, Arduino, Internet of Things (IoT), impresión 3D, GNU/Linux, hardware y software libre, entre otros.
+
+## Especialidades
+
+- Amplia experiencia en electrónica, con injerencia en microcontroladores.
+- Desempeño docente 
+- Experiencia en soporte técnico, proporcionando soluciones efectivas y atención personalizada a clientes.
+- Destreza en la redacción técnica para documentación de productos, manuales de usuario y guías de instalación.
+- Especializado en la realización de Pruebas de Concepto (*PoC, Proof of Concept*), demostrando la viabilidad y funcionalidad de proyectos mediante la creación y ejecución de pruebas exhaustivas.
+- Implementación de tecnologías en distintos ámbitos que así lo requieran.
+- Gestión de proyectos.
 
 ## Trabajos
 
