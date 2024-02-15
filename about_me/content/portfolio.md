@@ -64,8 +64,8 @@ Mi portfolio trata de recopilar mis trabajos a lo largo de los años: publicacio
 - Asesoramiento técnico: Rytmia Visual Music (2017) [🔗](https://www.automatismos-mdq.com.ar/blog/2017/12/asesoramiento-tecnico.html)
 - Investigación y desarrollo de un procesador automático de muestras ELISA (2013) [🔗](https://www.automatismos-mdq.com.ar/blog/2013/06/investigacion-y-desarrollo-de-un-procesador-automatico-de-muestras-elisa.html)
 - Soporte técnico, redactor técnico y PoCs en Niple Software (2013) [🔗](https://www.automatismos-mdq.com.ar/blog/2013/06/niple-software.html)
+- Desarrollo de sistemas de control de acceso vehicular para estacionamientos (2013) [🔗](https://www.automatismos-mdq.com.ar/blog/2013/06/control-de-acceso-vehicular.html)
 - Community Manager y administrador del sitio institucional del Colegio de Técnicos de la Provincia de Buenos Aires, Distrito V (2011) [🔗](https://www.automatismos-mdq.com.ar/blog/2009/01/colegio-de-tecnicos-de-la-provincia-de-buenos-aires-distrito-5.html)
-- Desarrollo de sistemas de control de acceso vehicular para estacionamientos (2009)
 
 ### Publicaciones
 

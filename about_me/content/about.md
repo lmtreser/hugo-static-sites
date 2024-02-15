@@ -19,13 +19,13 @@ Mis intereses son diversos, abarcando desde la educación hasta la retrocomputac
 
 ## Especialidades
 
-- Amplia experiencia en electrónica, con injerencia en microcontroladores.
-- Desempeño docente 
-- Experiencia en soporte técnico, proporcionando soluciones efectivas y atención personalizada a clientes.
-- Destreza en la redacción técnica para documentación de productos, manuales de usuario y guías de instalación.
-- Especializado en la realización de Pruebas de Concepto (*PoC, Proof of Concept*), demostrando la viabilidad y funcionalidad de proyectos mediante la creación y ejecución de pruebas exhaustivas.
-- Implementación de tecnologías en distintos ámbitos que así lo requieran.
-- Gestión de proyectos.
+Poseo capacidades, habilidades y competencias en diversas áreas, entre las cuales destacan:
+
+- **Electrónica.** Desarrollo, implementación y mantenimiento de soluciones electrónicas, con énfasis en aplicaciones basadas en microcontroladores.
+- **Educación.** Habilidades efectivas de comunicación, capacidad para transmitir conocimientos técnicos de manera clara y comprensible, motivando e inspirando a los estudiantes.
+- **Gestión de proyectos.** Habilidad para liderar y gestionar equipos de trabajo de forma eficiente. Capacidad para planificar, organizar y ejecutar proyectos de manera exitosa.
+- **Redacción técnica.** Capacidad para realizar documentación de productos, manuales de usuario y guías de instalación.
+- **PoCs**. Especializado en la realización de Pruebas de Concepto (PoC, Proof of Concept) generalmente en el ámbito de prototipado electrónico para demostrar la viabilidad y funcionalidad de componentes y dispositivos electrónicos.
 
 ## Trabajos
 
