@@ -3,6 +3,7 @@
 Sitios estáticos construidos con el framework Hugo.
 
 - `about_me` Sitio personal en GitHub. Utiliza el tema *Mini*. [🔗](https://lmtreser.github.io/)
+- `boards` Sitio del repositorio "boards". Utiliza el tema *PaperMod*. [🔗](https://lmtreser.github.io/boards/)
 - `pcb_libs` Sitio del proyecto "PCB Libs". Utiliza el tema *PaperMod*. [🔗](https://lmtreser.github.io/pcb_libs/)
 
 ## Sobre Hugo

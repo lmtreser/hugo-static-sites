@@ -1,0 +1,35 @@
+baseURL = 'https://lmtreser.github.io/boards/'
+languageCode = 'es'
+title = '📑 Arduino Cores'
+theme = 'PaperMod'
+description = 'Información técnica acerca de Arduino'
+keywords = [ 'Arduino', 'Expressif', 'Raspberry Pi' ]
+author = 'Lucas Martin Treser'
+DateFormat = 'January 2, 2006'
+
+[params]
+defaultTheme = 'light'
+disableThemeToggle = false
+ShowReadingTime = true
+ShowToc = false
+TocOpen = true
+ShowBreadCrumbs = false
+ShowPostNavLinks = true
+
+#[[menu.main]]
+#identifier = 'pcb_libs_url'
+#name = 'PCB Libs'
+#url = 'https://github.com/lmtreser/pcb_libs'
+#weight = 10
+
+[[menu.main]]
+identifier = 'repositorio'
+name = 'Código fuente'
+url = 'https://github.com/lmtreser/hugo-static-sites/tree/main/boards'
+weight = 20
+
+[params.homeInfoParams]
+Title = "Arduino Cores"
+Content = """
+En este mini sitio encontrarás documentación acerca de la inclusión de los Cores de terceros al Arduino IDE.
+"""
