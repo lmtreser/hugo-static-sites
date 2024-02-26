@@ -32,8 +32,4 @@ weight = 20
 Title = "Tutoriales Arduino"
 Content = """
 En este mini sitio encontrarás diversos tutoriales acerca de la tecnología Arduino.
-- Expressif ESP8266 Arduino Core
-- Expressif ESP32 Arduino Core
-- Raspberry Pi Pico
-- Bibliotecas Útiles
 """

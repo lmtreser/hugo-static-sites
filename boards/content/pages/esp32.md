@@ -11,14 +11,13 @@ a
 
 https://espressif.github.io/arduino-esp32/package_esp32_index.json
 
-Archivo >> Preferencias >> URLs adicionales de gestor de placas
+Archivo » Preferencias » URLs adicionales de gestor de placas
 
-Herramientas >> Placa >> Gestor de placas...
+Herramientas » Placa » Gestor de placas...
 
-Buscar como esp8266 y presionar el botón Instalar
+Buscar como esp32 y presionar el botón Instalar
 
-Herramientas >> Placa >> esp8266
-
+Herramientas » Placa » esp32
 
 ![](../img/esp32.gif)
 
