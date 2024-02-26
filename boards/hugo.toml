@@ -15,6 +15,7 @@ ShowToc = false
 TocOpen = true
 ShowBreadCrumbs = false
 ShowPostNavLinks = true
+ShowCodeCopyButtons = true
 
 #[[menu.main]]
 #identifier = 'pcb_libs_url'
