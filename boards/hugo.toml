@@ -1,6 +1,6 @@
 baseURL = 'https://lmtreser.github.io/boards/'
 languageCode = 'es'
-title = '📑 Arduino Cores'
+title = '📑 Boards'
 theme = 'PaperMod'
 description = 'Información técnica acerca de Arduino'
 keywords = [ 'Arduino', 'Expressif', 'Raspberry Pi' ]
@@ -24,12 +24,16 @@ ShowPostNavLinks = true
 
 [[menu.main]]
 identifier = 'repositorio'
-name = 'Código fuente'
+name = 'código fuente'
 url = 'https://github.com/lmtreser/hugo-static-sites/tree/main/boards'
 weight = 20
 
 [params.homeInfoParams]
-Title = "Arduino Cores"
+Title = "Tutoriales Arduino"
 Content = """
-En este mini sitio encontrarás documentación acerca de la inclusión de los Cores de terceros al Arduino IDE.
+En este mini sitio encontrarás diversos tutoriales acerca de la tecnología Arduino.
+- Expressif ESP8266 Arduino Core
+- Expressif ESP32 Arduino Core
+- Raspberry Pi Pico
+- Bibliotecas Útiles
 """
