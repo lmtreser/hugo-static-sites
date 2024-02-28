@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutoriales Arduino on Boards</title>
+    <link>http://localhost:1313/boards/</link>
+    <description>Recent content in Tutoriales Arduino on Boards</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 24 Feb 2024 10:49:34 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/boards/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bibliotecas Útiles</title>
+      <link>http://localhost:1313/boards/Bibliotecas/bibliotecas/</link>
+      <pubDate>Sat, 24 Feb 2024 10:49:34 -0300</pubDate>
+      <guid>http://localhost:1313/boards/Bibliotecas/bibliotecas/</guid>
+      <description>Listado de bibliotecas útiles.&#xA;Biblioteca Autor Plataforma Descripción DHT sensor library Adafruit AVR Sensores de temperatura y humedad DHT11, DHT22, etc. 🔗 DallasTemperature Miles Burton AVR Sensores de temperatura de Maxim (DS18B20, DS18S20, DS1822, DS1820, MAX31820, MAX31850) 🔗 </description>
+    </item>
+    <item>
+      <title>Instalación Drivers CP2102/CP2104</title>
+      <link>http://localhost:1313/boards/Drivers/cp210x/</link>
+      <pubDate>Sat, 24 Feb 2024 10:49:34 -0300</pubDate>
+      <guid>http://localhost:1313/boards/Drivers/cp210x/</guid>
+      <description>Si es la primera vez que usa un ESP32/ESP8266, es probable que si conecta la placa ESP a su computadora, no vea el puerto COM de su ESP disponible. Esto significa que no tiene los controladores instalados. Mire más de cerca el chip al lado del regulador de voltaje en la placa y verifique su nombre. Esta placa viene con el chip Silabs CP2102.&#xA;Instalación de controladores CP210x USB a UART Bridge VCP (PC con Windows) Prueba de los controladores USB CP210x Recursos Por ejemplo, la placa ESP32 DEVKIT V1 DOIT y muchos otros módulos ESP32 y ESP8266 utilizan los chips CP2102 o CP2104.</description>
+    </item>
+    <item>
+      <title>Expressif ESP8266 Arduino Core</title>
+      <link>http://localhost:1313/boards/Cores/esp8266/</link>
+      <pubDate>Sat, 24 Feb 2024 10:49:30 -0300</pubDate>
+      <guid>http://localhost:1313/boards/Cores/esp8266/</guid>
+      <description>En este tutorial veremos cómo configurar el IDE de Arduino para poder programar placas basadas en el SoC ESP8266, como por ejemplo NodeMCU y Wemos.&#xA;Especificaciones Instalación del Expressif ESP8266 Arduino Core Placas soportadas Recursos El ESP8266 es un chip de bajo costo fabricado por Espressif Systems, que incluye un procesador junto a conectividad Wi-Fi con un stack TCP/IP completo. El primer chip se hace conocido en los mercados alrededor de agosto de 2014 con el módulo ESP-01, desarrollado por la empresa AI-Thinker.</description>
+    </item>
+    <item>
+      <title>Expressif ESP32 Arduino Core</title>
+      <link>http://localhost:1313/boards/Cores/esp32/</link>
+      <pubDate>Sat, 24 Feb 2024 10:49:32 -0300</pubDate>
+      <guid>http://localhost:1313/boards/Cores/esp32/</guid>
+      <description>En este tutorial veremos cómo configurar el IDE de Arduino para poder programar placas basadas en el SoC ESP32.&#xA;Especificaciones Instalación del Expressif ESP32 Arduino Core Chips soportados Placas soportadas Recursos ESP32 es la denominación de una familia de chips de bajo costo, con tecnología Wi-Fi y Bluetooth integrada. El ESP32 emplea un CPU Tensilica Xtensa LX6 en sus variantes de simple y doble núcleo. Fue creado y desarrollado por Espressif Systems y es fabricado por TSMC utilizando su proceso de 40 nm.</description>
+    </item>
+    <item>
+      <title>Raspberry Pi Pico Arduino Core</title>
+      <link>http://localhost:1313/boards/Cores/pico/</link>
+      <pubDate>Sat, 24 Feb 2024 10:49:34 -0300</pubDate>
+      <guid>http://localhost:1313/boards/Cores/pico/</guid>
+      <description>En este tutorial veremos cómo configurar el IDE de Arduino para poder programar las placas de Raspberry Pi Pico y Pico W, y otras tantas basadas en el microcontrolador RP2040.&#xA;Especificaciones Instalación del Raspberry Pi Pico Arduino Core Placas soportadas Recursos El RP2040 es un microcontrolador dual-core ARM Cortex-M0+ 32 bits de Raspberry Pi Ltd. En enero de 2021, se lanzó como parte de la placa Raspberry Pi Pico. Más en Wikipedia.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/boards/Bibliotecas/bibliotecas/</loc>
+    <lastmod>2024-02-24T10:49:34-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/boards/Drivers/cp210x/</loc>
+    <lastmod>2024-02-24T10:49:34-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/boards/</loc>
+    <lastmod>2024-02-24T10:49:34-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/boards/Cores/esp8266/</loc>
+    <lastmod>2024-02-24T10:49:30-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/boards/Cores/esp32/</loc>
+    <lastmod>2024-02-24T10:49:32-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/boards/Cores/pico/</loc>
+    <lastmod>2024-02-24T10:49:34-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/boards/Bibliotecas/</loc>
+    <lastmod>2024-02-24T10:49:34-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/boards/Cores/</loc>
+    <lastmod>2024-02-24T10:49:34-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/boards/Drivers/</loc>
+    <lastmod>2024-02-24T10:49:34-03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/boards/tags/</loc>
+  </url>
+</urlset>
