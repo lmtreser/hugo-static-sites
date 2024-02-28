@@ -8,7 +8,7 @@ Sitios estáticos construidos con el framework Hugo.
 
 ## Sobre Hugo
 
-Hugo es un generador de sitios estáticos escrito en [Go](https://go.dev/), creado por Steve Francia. Desde el 2015 ha visto un gran incremento en funciones y rendimiento, gracias al desarrollador Bjørn Erik Pedersen (desde v0.14), y otros colaboradores. [Más en Wikipedia](https://es.m.wikipedia.org/wiki/Hugo_(software)).
+Hugo es un generador de sitios estáticos escrito en [Go](https://go.dev/), creado por Steve Francia. Desde el 2015 ha visto un gran incremento en funciones y rendimiento, gracias al desarrollador Bjørn Erik Pedersen (desde v0.14), y otros colaboradores. Más en [Wikipedia](https://es.m.wikipedia.org/wiki/Hugo_(software)).
 
 ## Uso
 
