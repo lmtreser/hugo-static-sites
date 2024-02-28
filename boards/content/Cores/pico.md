@@ -28,7 +28,7 @@ El **RP2040** es un microcontrolador dual-core ARM Cortex-M0+ 32 bits de Raspber
 
 > Este tutorial está realizado con la versión 2.3.2 de Arduino IDE, aunque el procedimiento es similar para versiones anteriores.
 
-Para poder instalar el Raspberry Pi Pico Core de [Earle F. Philhower, III](mailto:earlephilhower@yahoo.com) debemos seguir los mismos pasos explicados en el tutorial [Expressif ESP8266 Arduino Core](../esp8266/) con una diferencia: en la ventana `URLs adicionales de gestor de placas` debemos agregar la siguiente línea:
+Para poder instalar el Raspberry Pi Pico Core de [Earle F. Philhower, III](mailto:earlephilhower@yahoo.com) debemos seguir los mismos pasos explicados en el tutorial [Espressif ESP8266 Arduino Core](../esp8266/) con una diferencia: en la ventana `URLs adicionales de gestor de placas` debemos agregar la siguiente línea:
 
 ```sh
 https://github.com/earlephilhower/arduino-pico/releases/download/global/package_rp2040_index.json

@@ -1,5 +1,5 @@
 ---
-title: "Expressif ESP32 Arduino Core"
+title: "Espressif ESP32 Arduino Core"
 date: 2024-02-24T10:49:32-03:00
 draft: false
 weight: 2
@@ -27,11 +27,11 @@ En este tutorial veremos cómo configurar el IDE de Arduino para poder programar
 - Controlador host SD/SDIO/CE-ATA/MMC/eMMC
 - Controlador esclavo SDIO/SPI
 
-## Instalación del Expressif ESP32 Arduino Core
+## Instalación del Espressif ESP32 Arduino Core
 
 > Este tutorial está realizado con la versión 2.3.2 de Arduino IDE, aunque el procedimiento es similar para versiones anteriores.
 
-Para poder instalar el Core ESP32 debemos seguir los mismos pasos explicados en el tutorial [Expressif ESP8266 Arduino Core](../esp8266/) con una diferencia: en la ventana `URLs adicionales de gestor de placas` debemos agregar la siguiente línea:
+Para poder instalar el Core ESP32 debemos seguir los mismos pasos explicados en el tutorial [Espressif ESP8266 Arduino Core](../esp8266/) con una diferencia: en la ventana `URLs adicionales de gestor de placas` debemos agregar la siguiente línea:
 
 ```sh
 https://espressif.github.io/arduino-esp32/package_esp32_index.json

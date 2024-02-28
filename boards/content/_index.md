@@ -28,7 +28,7 @@ Es parte del proyecto [Boards](https://github.com/lmtreser/boards), un repositor
     - [Arduino Uno Rev3 SMD](https://store.arduino.cc/products/arduino-uno-rev3-smd)
     - [Using the Arduino Pro Mini 3.3V](https://learn.sparkfun.com/tutorials/using-the-arduino-pro-mini-33v)
 
-- **Expressif Boards**
+- **Espressif Boards**
     - [150+ ESP8266 NodeMCU Projects, Tutorials and Guides with Arduino IDE](https://randomnerdtutorials.com/projects-esp8266/)
     - [Comparativa ESP8266 frente a ESP32, los SoC de Espressif para IoT](https://www.luisllamas.es/comparativa-esp8266-esp32/)
     - [Detalles de hardware y pins del ESP8266](https://www.luisllamas.es/detalles-del-esp8266-diferencias-con-arduino/)
