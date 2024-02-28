@@ -1,0 +1,10 @@
+---
+more:
+  - name: Descargar el repositorio
+    ref: "https://github.com/lmtreser/boards/archive/refs/heads/main.zip"
+    external: true
+    icon: "gdoc_download"
+  - name: "Código fuente"
+    ref: "https://github.com/lmtreser/hugo-static-sites/tree/main/boards"
+    external: true
+    icon: "gdoc_github"
