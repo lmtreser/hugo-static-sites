@@ -3,7 +3,7 @@
 Sitios estáticos construidos con el framework Hugo.
 
 - `about_me` Sitio personal en GitHub. Utiliza el tema *Mini*. [🔗](https://lmtreser.github.io/)
-- `boards` Sitio del repositorio "boards". Utiliza el tema *PaperMod*. [🔗](https://lmtreser.github.io/boards/)
+- `boards` Sitio del repositorio "boards". Utiliza el tema *Geekdocs*. [🔗](https://lmtreser.github.io/boards/)
 - `pcb_libs` Sitio del proyecto "PCB Libs". Utiliza el tema *PaperMod*. [🔗](https://lmtreser.github.io/pcb_libs/)
 
 ## Sobre Hugo
@@ -52,6 +52,7 @@ hugo
 - [Even Theme](https://hugo-theme-even.netlify.app/)
 - [LoveIt Theme](https://hugoloveit.com/)
 - [Mini Theme](https://nodejh.com/hugo-theme-mini/)
+- [Geekdocs Theme](https://geekdocs.de/)
 
 ## Licencia
 
