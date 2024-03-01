@@ -46,11 +46,19 @@ Por ejemplo, si accedemos a una biblioteca que esta alojada en GitHub, podremos 
     <img src="../img/gh_descarga.png">
 </p>
 
-Una vez que el archivo se encuentra en nuestra computadora, en el Arduino IDE, hay que hacer clic en `Sketch » Incluir biblioteca » Añadir biblioteca .ZIP...`.
+Una vez que el archivo se encuentra en nuestra computadora, en el Arduino IDE, hay que hacer clic en `Sketch » Incluir biblioteca » Añadir biblioteca .ZIP...`. 
+
+<p align="center">
+    <img src="../img/sistema_archivos.gif">
+</p>
+
+Se desplegará una ventana que permite recorrer el sistema de archivos para buscar el paquete que queremos instalar.
 
 <p align="center">
     <img src="../img/archivo_zip.png">
 </p>
+
+Una vez elegido el archivo ZIP, hay que hacer clic en el botón `Abrir` y el proceso comenzará de inmediato.
 
 ## Recursos
 
