@@ -22,18 +22,22 @@ El preprocesador utiliza 4 etapas denominadas **Fases de traducción**. Aunque a
 
 ## Instrucciones Básicas del Preprocesador
 
-### Inclusión de Archivos
+Inclusión de archivos:
+
 - `#include <file>`: Incluye un archivo de cabecera estándar.
 - `#include "file"`: Incluye un archivo de cabecera del proyecto.
 
-### Definición de Macros
+Definición de macros:
+
 - `#define NAME value`: Define una macro.
 - `#define NAME(args) code`: Define una macro con argumentos.
 
-### Eliminación de Definiciones
+Eliminación de definiciones:
+
 - `#undef NAME`: Elimina la definición de una macro.
 
-### Control Condicional de Compilación
+Control condicional de compilación:
+
 - `#ifdef NAME`: Compila el código si la macro NAME está definida.
 - `#ifndef NAME`: Compila el código si la macro NAME no está definida.
 - `#if expression`: Compila el código si la expresión es verdadera.
@@ -41,7 +45,8 @@ El preprocesador utiliza 4 etapas denominadas **Fases de traducción**. Aunque a
 - `#else`: Compila el código si ninguna de las condiciones anteriores se cumple.
 - `#endif`: Finaliza una estructura condicional.
 
-### Macros Predefinidas
+Macros predefinidas:
+
 - `__DATE__`: Fecha de compilación (en formato "MMM DD YYYY").
 - `__TIME__`: Hora de compilación (en formato "HH:MM:SS").
 - `__FILE__`: Nombre del archivo fuente actual.
@@ -49,13 +54,32 @@ El preprocesador utiliza 4 etapas denominadas **Fases de traducción**. Aunque a
 - `__func__`: Nombre de la función actual (C99 y C++11 en adelante).
 - `__cplusplus`: Definido cuando el código se compila como C++.
 
-### Directivas de Línea
+Directivas de línea:
+
 - `#line number`: Cambia el número de línea del código.
 - `#line number "filename"`: Cambia el número de línea y el nombre del archivo.
 
-### Otros
+Otros:
+
 - `#error message`: Genera un mensaje de error durante la compilación.
 - `#pragma directive`: Emite directivas específicas del compilador.
+
+## Pragmas
+
+Los **pragmas** son directivas especiales que controlan el comportamiento del compilador. Tienen esta forma estándar:
+
+```c
+pragma Nombre (lista_de_argumentos);
+```
+
+`#pragma` es una directiva que se utiliza en C y C++ para ofrecer información adicional al compilador, más allá de lo que está disponible en el lenguaje estándar. Los pragmas son específicos del compilador. Es decir, un pragma diseñado para un compilador puede no funcionar en otro. El uso de #pragma puede hacer que el código sea menos portátil, ya que los pragmas son específicos del compilador.
+
+Por ejemplo, *pragma once* se utiliza para asegurar que un archivo de encabezado se incluya una sola vez durante la compilación. Esto ayuda a prevenir la duplicación de definiciones.
+
+```c
+#pragma once
+// Código de encabezado aquí
+```
 
 ## Ejemplos
 
@@ -105,6 +129,44 @@ Mensajes de error y pragma:
 #error "Este es un error de prueba"
 
 #pragma once // Previene inclusiones múltiples en algunos compiladores
+```
+
+## Ejemplos Arduino
+
+Incluir una biblioteca u otra dependiendo del hardware a compilar:
+
+```c
+#ifndef ESPWEBCFG_H
+#define ESPWEBCFG_H
+
+#ifdef ESP8266
+    #include <ESP8266WebServer.h>
+    #include <ESP8266WiFi.h>
+#elif defined(ESP32)
+    #include <WiFi.h>
+    #include <WebServer.h>
+#endif
+```
+
+Añadir instrucciones específicas para un modelo de placa u otro:
+
+```c
+#if defined(ARDUINO_AVR_UNO)
+  // Código específico para Arduino Uno
+  pinMode(13, OUTPUT);
+#elif defined(ARDUINO_AVR_MEGA2560)
+  // Código específico para Arduino Mega
+  pinMode(53, OUTPUT);
+#endif
+```
+
+Si existe la definición, añadir instrucciones específicas:
+
+```c
+#define ENABLE_DEBUG 1  // DEBUG por Serial, 1=activado
+#if ENABLE_DEBUG
+  Serial.println("Mensaje");
+#endif
 ```
 
 ## Manuales
