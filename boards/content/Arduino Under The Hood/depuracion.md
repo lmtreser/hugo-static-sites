@@ -1,8 +1,8 @@
 ---
 title: "Depuración"
-date: 2024-06-06T10:49:34-03:00
+date: 2024-06-06T08:00:00-03:00
 draft: false
-weight: 4
+weight: 3
 ---
 GDB o GNU Debugger es el depurador estándar para el compilador GNU. Es un depurador portable que se puede utilizar en varias plataformas Unix y funciona para varios lenguajes de programación como C, C++ y Fortran. GDB fue escrito por Richard Stallman en 1986. GDB es software libre distribuido bajo la licencia GPL.
 
